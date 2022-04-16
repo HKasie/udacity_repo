@@ -7,5 +7,4 @@ This is a repository to practise with git and Github
 * Git commit -m
 * Git push
 * Git branch
-* Git checkout
-* Merge
+* Git checkout -b
